@@ -1,0 +1,104 @@
+﻿@*@model demorepository.Models.Employee
+
+    @{
+        ViewBag.Title = "DeleteEmployee";
+    }
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        @using (Html.BeginForm("Delete", "Employee", FormMethod.Post))
+        {
+            @Html.HiddenFor(e => e.EmployeeID)
+            <h4>Delete Employee</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Gender)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Gender)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Salary)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Salary)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Dept)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Dept)
+                </dd>
+            </dl>
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to Employee List", "Index")
+            </div>
+        }
+    </div>
+*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script>
+
+        function saveOnclick() {
+            alert('save');
+            var employe = {};
+            employe.EmployeeID = $("#EmployeeID").val();
+            employe.Name = $("#Name").val();
+            employe.Gender = $("#Gender").val();
+            employe.Salary = $("#Salary").val();
+            employe.Dept = $("#Dept").val();
+
+            $.ajax({
+                url: "/api/Demo",
+                method: "POST",
+                data: JSON.stringify(employe),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json"
+
+            }).done(alter('success'))
+
+        };
+
+
+
+
+    </script>
+</head>
+
+<body>
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            Test Data from API
+        </div>   <!--en dof panel-heading -->
+        <div class="panel-body">
+
+            <input id="EmployeeID" text="demo" />
+            <input id="Name" text="demo" />
+            <input id="Gender" />
+            <input id="Salary" />
+            <input id="Dept" />
+            <button id="btnsave" onclick="saveOnclick()">SAVE</button>
+        </div> <!--end of Panel-body -->
+    </div> <!--end of Panel -->
+</body>
+
+
+</html>

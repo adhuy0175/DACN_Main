@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <!-- insert next js -->
+    @*<script src="~/lib/JsEmployee/JavaScript_Api.js"></script>*@
+    <!-- insert next bootrap -->
+    <link href="~/bootstrap-5.0.2-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+    <script src="~/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="welcome-header">
+        <nav class="navbar sticky-top" style="background-color: #544179;">
+            <div class="phone-header" style="padding: 10px; color:white">
+                <span class="navbar-brand mb-0 h1">Quang Huy</span>
+                <span class="navbar-brand mb-0 h1">0985698795</span>
+            </div>
+            <div class="account-header" style="padding:initial;">
+                <a class="navbar-brand" href="#">
+                    <i class="bi bi-youtube" style="color: red;"></i>
+                </a>
+                <a class="navbar-brand" href="#">
+                    <i class="bi bi-facebook"></i>
+                </a>
+                <span class="navbar-brand mb-0 h1" style="color: white;">Xin chào, adhuy017@gmail.com</span>
+                <button type="button" class="btn btn-primary">
+                    <i class="bi bi-person-circle"></i>
+                    Đăng Nhập
+                </button>
+            </div>
+        </nav>
+    </div>
+    <div class="card-header">
+        <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                    <img src="~/Img/logo.png" height="50" />
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 m-lg-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Trang Chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Lịch Trình</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Đặt vé</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Blog Du Lịch</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Liên Hệ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Về Chúng Tôi</a>
+                        </li>
+
+                    </ul>
+                    <form class="d-flex">
+                        <input class="form-control me-2" type="search" placeholder="Tìm Kiếm Lịch Trình" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </div>
+</body>
+</html>
+@RenderBody()

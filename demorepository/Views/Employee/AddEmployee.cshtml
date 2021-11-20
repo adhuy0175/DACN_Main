@@ -1,0 +1,104 @@
+﻿@*@model demorepository.Models.Employee
+
+    @{
+        ViewBag.Title = "AddEmployee";
+    }
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <h4>Add Employee</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Gender, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Gender)
+                    @Html.ValidationMessageFor(model => model.Gender)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Salary, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Salary)
+                    @Html.ValidationMessageFor(model => model.Salary)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Dept, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Dept)
+                    @Html.ValidationMessageFor(model => model.Dept)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    <div>
+        @Html.ActionLink("Back to Employee List", "Index")
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")}*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script>
+
+        function saveOnclick() {
+            alert('save');
+            var employe = {};
+            employe.EmployeeID = $("#EmployeeID").val();
+            employe.Name = $("#Name").val();
+            employe.Gender = $("#Gender").val();
+            employe.Salary = $("#Salary").val();
+            employe.Dept = $("#Dept").val();
+
+            $.ajax({
+                url: "/api/Demo",
+                method: "POST",
+                data: JSON.stringify(employe),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json"
+
+            }).done(alter('success'))
+           
+        };
+
+        
+           
+       
+    </script>
+</head>
+
+<body>
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            Test Data from API
+        </div>   <!--en dof panel-heading -->
+        <div class="panel-body">
+
+            <input id="EmployeeID" text="demo" />
+            <input id="Name" text="demo" />
+            <input id="Gender" />
+            <input id="Salary" />
+            <input id="Dept" />
+            <button id="btnsave" onclick="saveOnclick()">SAVE</button>
+        </div> <!--end of Panel-body -->
+    </div> <!--end of Panel -->
+</body>
+
+
+</html>

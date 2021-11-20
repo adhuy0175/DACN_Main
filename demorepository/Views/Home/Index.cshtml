@@ -1,0 +1,104 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- insert first jquery  -->
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <!-- insert next js -->
+    @*<script src="~/lib/JsEmployee/JavaScript_Api.js"></script>*@
+    <!-- insert next bootrap -->
+    <link href="~/bootstrap-5.0.2-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+</head>
+
+<body>
+    <!-- As a link -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Navbar</a>
+        </div>
+    </nav>
+
+    <!-- As a heading -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">Navbar</span>
+        </div>
+    </nav>
+
+
+    <p>
+        <button class="btn btn-info" onclick="addOnclick()">ADD</button>
+    </p>
+
+    <div class="panel-heading">
+        Test Data from API
+    </div>
+
+    <div class="panel-body">
+        <table class="table table-bordered" id="table" onclick="">
+            <thead>
+                <tr class="row-select">
+                    @*   <th>EmployeeID</th>*@
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Salary</th>
+                    <th>Dept</th>
+                    <th>Action</th>
+
+                </tr>   <!--end of table-row -->
+            </thead>
+            <tbody>
+            </tbody>
+
+        </table>
+
+    </div>
+
+    </div>
+
+
+    <!-- Form dialog (add, edit) -->
+    <dialog id="favDialog">
+        <div>
+            INFO
+        </div>
+        <form method="dialog">
+            <p>
+                <label>
+                    info1
+                </label>
+                <input id="info1" />
+                <hr />
+
+                <label>
+                    info2
+                </label>
+                <input id="info2" />
+                <hr />
+
+                <label>
+                    info3
+                </label>
+                <input id="info3" />
+                <hr />
+
+                <label>
+                    info4
+                </label>
+                <input id="info4" />
+                <hr />
+            </p>
+            <menu>
+                <button value="default">Cancel</button>
+                <button id="confirmBtn" value="default" onclick="saveOnclick()">Confirm</button>
+            </menu>
+        </form>
+    </dialog>
+
+    <script src="~/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
+</body>
+</html>

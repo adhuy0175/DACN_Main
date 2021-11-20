@@ -1,0 +1,352 @@
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\demorepository.dll.config
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\demorepository.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\demorepository.pdb
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe.config
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csc.rsp
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe.config
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\csi.rsp
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.AppContext.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Console.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Http.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe.config
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.rsp
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\EntityFramework.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Http.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\WebGrease.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\EntityFramework.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.pdb
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Http.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.csproj.CoreCompileInputs.cache
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.dll
+C:\Users\nhan\Desktop\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.pdb
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.dll.config
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.pdb
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe.config
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.rsp
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe.config
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.rsp
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.AppContext.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Console.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Http.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe.config
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.rsp
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\WebGrease.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.pdb
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.csproj.CoreCompileInputs.cache
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.dll
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.pdb
+C:\Users\nhan\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.csproj.AssemblyReference.cache
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.dll.config
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\demorepository.pdb
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.exe.config
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csc.rsp
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.exe.config
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\csi.rsp
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.AppContext.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Console.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Globalization.Calendars.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Http.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Net.Sockets.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.ValueTuple.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.exe.config
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\vbc.rsp
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\WebGrease.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\EntityFramework.SqlServer.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Helpers.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Mvc.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Optimization.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Razor.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Newtonsoft.Json.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Antlr3.Runtime.pdb
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Net.Http.Formatting.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\System.Web.Http.WebHost.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.csproj.AssemblyReference.cache
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.csproj.CoreCompileInputs.cache
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.dll
+D:\Desktop\DO_AN_CN\DEMO_API\demorepository\demorepository\obj\Debug\demorepository.pdb
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\demorepository.dll.config
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\demorepository.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\demorepository.pdb
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csc.exe
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csc.exe.config
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csc.rsp
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csi.exe
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csi.exe.config
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\csi.rsp
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.AppContext.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Console.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.IO.Compression.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Net.Http.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Net.Sockets.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.ValueTuple.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\vbc.exe
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\vbc.exe.config
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\vbc.rsp
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Antlr3.Runtime.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\EntityFramework.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\EntityFramework.SqlServer.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Newtonsoft.Json.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Net.Http.Formatting.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Helpers.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Http.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Http.WebHost.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Mvc.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Optimization.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Razor.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.Razor.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\WebGrease.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\EntityFramework.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\EntityFramework.SqlServer.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Helpers.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Mvc.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Optimization.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Razor.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.WebPages.Razor.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Newtonsoft.Json.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Antlr3.Runtime.pdb
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Net.Http.Formatting.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Http.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\System.Web.Http.WebHost.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\obj\Debug\demorepository.csprojAssemblyReference.cache
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\obj\Debug\demorepository.csproj.CoreCompileInputs.cache
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\obj\Debug\demorepository.csproj.CopyComplete
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\obj\Debug\demorepository.dll
+C:\Users\huytr\OneDrive\Desktop\Tài liệu đồ án chuyên ngành\demorepository\demorepository\obj\Debug\demorepository.pdb

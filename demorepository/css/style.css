@@ -1,0 +1,180 @@
+﻿html, body{
+    width: 100%;
+    height:100%;
+    font-size: 15px;
+}
+.navbar li a {
+    color: black !important;
+}
+.navbar li a:hover {
+    color: #6166B3 !important;
+}
+.carousel-inner img{
+    width:100%;
+}
+.carousel-caption{
+    position : absolute;
+    top: 10%;
+}
+.carousel-caption h1{
+    font-size: 200%;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 15px #000;
+}
+.btn-primary {
+    background-color: #32C1CD;
+    border: 1px solid white;
+}
+.btn-primary:hover {
+    background-color: #544179;
+    border: 1px solid white;
+}
+/*media-query*/
+@media(max-width: 992px){
+    .carousel-caption{
+        top: 20%;
+    }
+    .carousel-caption h1{
+        font-size: 250%;
+    }
+    .carousel-caption .btn{
+        font-size: 100%;
+    }
+}
+@media(max-width: 768px){
+    .carousel-caption {
+        top: 20%;
+    }
+
+        .carousel-caption h1 {
+            font-size: 220%;
+        }
+
+        .carousel-caption .btn {
+            font-size: 95%;
+            padding: 8px 14px;
+        }
+}
+@media(max-width: 576px){
+    .carousel-caption {
+        top: 10%;
+    }
+
+    .carousel-caption h1 {
+            font-size: 150%;
+    }
+
+        .carousel-caption .btn {
+            font-size: 90%;
+            padding: 4px 8px;
+        }
+}
+.flight-engine {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 50px;
+    padding: 20px;
+    z-index: 999;
+}
+
+.tab1.active {
+    display: block
+}
+
+.tab1 {
+    display: none
+}
+
+.tabing {
+    float: left;
+    width: 100%;
+    background: rgba(0, 130, 185, .8);
+    padding: 0 10px 10px 10px;
+    color: #fff;
+}
+
+    .tabing ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        width: 100%;
+        float: left;
+    }
+
+        .tabing ul li {
+            float: left;
+        }
+
+            .tabing ul li a {
+                display: block;
+                padding: 5px;
+                text-decoration: none;
+                color: #fff;
+                background: rgba(0, 130, 185, .9);
+                margin: 0 10px 0 0;
+                padding: 5px 10px 5px 10px;
+                border-radius: 0px 0px 5px 5px;
+                font-size: 16px;
+                text-align: left;
+            }
+
+                .tabing ul li a.active {
+                    background: #ba0400
+                }
+
+.flight-tab {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    padding: 15px
+}
+
+    .flight-tab .textboxstyle {
+        width: 100%;
+        float: left;
+        color: #191919;
+        padding: 8px 10px 8px 35px;
+        border: none;
+        border-radius: 3px;
+        background: #f5f5f5;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+.persent-one {
+    width: 19%;
+    float: left;
+    margin-right: 1%;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+    .persent-one i {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        color: #191919;
+        font-size: 18px;
+    }
+
+    .persent-one.less-per {
+        width: 16%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .persent-one.less-btn {
+        width: 5%;
+        float: left;
+        margin-right: 1%;
+    }
+
+        .persent-one.less-btn .cst-btn {
+            width: 85px;
+            height: 85px;
+            border-radius: 100%;
+            position: absolute;
+            top: -32px;
+        }
+
