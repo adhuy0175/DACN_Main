@@ -169,6 +169,26 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\demo.css" />
+    <Content Include="assets\css\paper-bootstrap-wizard.css" />
+    <Content Include="assets\css\themify-icons-demo.css" />
+    <Content Include="assets\css\themify-icons.css" />
+    <Content Include="assets\fonts\themify.svg" />
+    <Content Include="assets\img\apple-icon.png" />
+    <Content Include="assets\img\default-avatar.jpg" />
+    <Content Include="assets\img\favicon.png" />
+    <Content Include="assets\img\new_logo.png" />
+    <Content Include="assets\img\paper-1.jpeg" />
+    <Content Include="assets\img\paper-2.jpg" />
+    <Content Include="assets\img\paper-3.jpeg" />
+    <Content Include="assets\img\tim_80x80.png" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\demo.js" />
+    <Content Include="assets\js\jquery-2.2.4.min.js" />
+    <Content Include="assets\js\jquery.bootstrap.wizard.js" />
+    <Content Include="assets\js\jquery.validate.min.js" />
+    <Content Include="assets\js\paper-bootstrap-wizard.js" />
     <Content Include="bootstrap-5.0.2-dist\css\bootstrap-grid.css" />
     <Content Include="bootstrap-5.0.2-dist\css\bootstrap-grid.min.css" />
     <Content Include="bootstrap-5.0.2-dist\css\bootstrap-grid.rtl.css" />
@@ -201,6 +221,9 @@
     <Content Include="css\paper-bootstrap-wizard.css" />
     <Content Include="css\style.css" />
     <Content Include="css\themify-icons.css" />
+    <Content Include="documentation\css\documentation.css" />
+    <Content Include="documentation\elements.html" />
+    <Content Include="documentation\themify-icons.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -259,6 +282,28 @@
     <Content Include="bootstrap-5.0.2-dist\js\bootstrap.esm.min.js.map" />
     <Content Include="bootstrap-5.0.2-dist\js\bootstrap.js.map" />
     <Content Include="bootstrap-5.0.2-dist\js\bootstrap.min.js.map" />
+    <Content Include="assets\fonts\themify.eot" />
+    <Content Include="assets\fonts\themify.ttf" />
+    <Content Include="assets\fonts\themify.woff" />
+    <Content Include="assets\scss\paper-bootstrap-wizard.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\mixins\_buttons.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\mixins\_inputs.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\mixins\_labels.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\mixins\_transparency.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\mixins\_vendor-prefixes.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_buttons.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_card.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_footers.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_inputs.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_labels-progress-bar.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_misc.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_mixins.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_navs-pagination.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_responsive.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_tooltips.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_typography.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_variables.scss" />
+    <Content Include="assets\scss\paper-bootstrap-wizard\_wizard-card.scss" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -291,6 +336,7 @@
     <Content Include="Views\Employee\DeleteEmployee.cshtml" />
     <Content Include="Views\Demo\Index.cshtml" />
     <Content Include="Views\Login\Login.cshtml" />
+    <Content Include="Views\Booking\Booking.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
